@@ -1,0 +1,11 @@
+[01-Sep-2025 19:26:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'requester_id' cannot be null in /home/customer/www/rahul.millioncoders.net/public_html/MTURK.COM/post_task.php:82
+Stack trace:
+#0 /home/customer/www/rahul.millioncoders.net/public_html/MTURK.COM/post_task.php(82): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/customer/www/rahul.millioncoders.net/public_html/MTURK.COM/post_task.php on line 82
+[17-Sep-2025 14:59:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'rahuljee044@gmail.com' for key 'users.email' in /home/customer/www/rahul.millioncoders.net/public_html/MTURK.COM/signup.php:79
+Stack trace:
+#0 /home/customer/www/rahul.millioncoders.net/public_html/MTURK.COM/signup.php(79): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/customer/www/rahul.millioncoders.net/public_html/MTURK.COM/signup.php on line 79
+ 
